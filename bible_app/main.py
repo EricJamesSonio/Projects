@@ -1,8 +1,8 @@
 import tkinter as tk
-from openning import openning
+from bible_app.openning import openning
 from tkinter import messagebox, ttk
 import time
-from genesis import verses
+from bible_app.genesis import verses
 
 
 class Node:
